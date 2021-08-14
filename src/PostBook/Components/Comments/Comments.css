@@ -1,0 +1,13 @@
+.comments{
+    padding-left: 20px;
+    border-left: 1px solid #a2a2a2;
+}
+
+.comment-user-name{
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+.comment-text{
+    margin-top: 0.5rem;
+}
